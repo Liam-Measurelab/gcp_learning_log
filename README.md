@@ -35,3 +35,17 @@ The way I like to picture Dataflow working is like a beam of particles, small su
 
 Documents by Juan Calvo: 
 https://miro.com/app/board/o9J_kia5jmU=/
+
+In interface, 
+Create Job from template 
+Notebooks - Building Apache Beam with Python in Notebooks. 
+
+
+
+
+
+
+
+
+
+
