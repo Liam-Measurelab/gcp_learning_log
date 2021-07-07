@@ -40,6 +40,8 @@ In interface,
 Create Job from template 
 Notebooks - Building Apache Beam with Python in Notebooks. 
 
+## Google Cloud Platform Big Data and Machine Learning Fundamentals 
+
 
 
 
